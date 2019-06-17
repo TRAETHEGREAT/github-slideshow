@@ -1,0 +1,3 @@
+git checkout master
+git merge --no-ff TRAETHEGREAT-patch-2
+git push origin master
